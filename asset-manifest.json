@@ -1,19 +1,35 @@
 {
   "files": {
     "main.css": "/react-example/static/css/main.e6c13ad2.css",
-    "main.js": "/react-example/static/js/main.89e62cbe.js",
-    "react-syntax-highlighter/refractor-import.js": "/react-example/static/js/react-syntax-highlighter/refractor-import.be5804a4.chunk.js",
+    "main.js": "/react-example/static/js/main.a81447df.js",
+    "tsub-middleware.js": "/react-example/static/js/tsub-middleware.b070b170.chunk.js",
+    "ajs-destination.js": "/react-example/static/js/ajs-destination.18116f88.chunk.js",
+    "legacyVideos.js": "/react-example/static/js/legacyVideos.983a269b.chunk.js",
+    "schemaFilter.js": "/react-example/static/js/schemaFilter.b669a813.chunk.js",
+    "remoteMiddleware.js": "/react-example/static/js/remoteMiddleware.3618654f.chunk.js",
+    "auto-track.js": "/react-example/static/js/auto-track.64f74e98.chunk.js",
+    "queryString.js": "/react-example/static/js/queryString.21b92944.chunk.js",
+    "react-syntax-highlighter/refractor-import.js": "/react-example/static/js/react-syntax-highlighter/refractor-import.f21542b5.chunk.js",
     "static/js/787.aff05db8.chunk.js": "/react-example/static/js/787.aff05db8.chunk.js",
+    "static/js/74.2ff9e7f1.chunk.js": "/react-example/static/js/74.2ff9e7f1.chunk.js",
     "static/media/Debugger.png": "/react-example/static/media/Debugger.f1d6a0d141c8dcdab2dd.png",
     "static/media/SourceSettings.png": "/react-example/static/media/SourceSettings.6593ddd90abae11abaa6.png",
     "index.html": "/react-example/index.html",
     "main.e6c13ad2.css.map": "/react-example/static/css/main.e6c13ad2.css.map",
-    "main.89e62cbe.js.map": "/react-example/static/js/main.89e62cbe.js.map",
-    "refractor-import.be5804a4.chunk.js.map": "/react-example/static/js/react-syntax-highlighter/refractor-import.be5804a4.chunk.js.map",
-    "787.aff05db8.chunk.js.map": "/react-example/static/js/787.aff05db8.chunk.js.map"
+    "main.a81447df.js.map": "/react-example/static/js/main.a81447df.js.map",
+    "tsub-middleware.b070b170.chunk.js.map": "/react-example/static/js/tsub-middleware.b070b170.chunk.js.map",
+    "ajs-destination.18116f88.chunk.js.map": "/react-example/static/js/ajs-destination.18116f88.chunk.js.map",
+    "legacyVideos.983a269b.chunk.js.map": "/react-example/static/js/legacyVideos.983a269b.chunk.js.map",
+    "schemaFilter.b669a813.chunk.js.map": "/react-example/static/js/schemaFilter.b669a813.chunk.js.map",
+    "remoteMiddleware.3618654f.chunk.js.map": "/react-example/static/js/remoteMiddleware.3618654f.chunk.js.map",
+    "auto-track.64f74e98.chunk.js.map": "/react-example/static/js/auto-track.64f74e98.chunk.js.map",
+    "queryString.21b92944.chunk.js.map": "/react-example/static/js/queryString.21b92944.chunk.js.map",
+    "refractor-import.f21542b5.chunk.js.map": "/react-example/static/js/react-syntax-highlighter/refractor-import.f21542b5.chunk.js.map",
+    "787.aff05db8.chunk.js.map": "/react-example/static/js/787.aff05db8.chunk.js.map",
+    "74.2ff9e7f1.chunk.js.map": "/react-example/static/js/74.2ff9e7f1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.89e62cbe.js"
+    "static/js/main.a81447df.js"
   ]
 }
