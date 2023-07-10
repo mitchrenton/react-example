@@ -2,8 +2,8 @@ import React from "react"
 import ReactDOM from "react-dom"
 import "./index.css"
 // UNCOMMENT FOR PACKAGE EXAMPLE
-// import App from "./examples/analytics-package/App"
-import App from "./examples/analytics-quick-start/App" // COMMENT OUT FOR PACKAGE EXAMPLE
+import App from "./examples/analytics-package/App"
+// import App from "./examples/analytics-quick-start/App" // COMMENT OUT FOR PACKAGE EXAMPLE
 import reportWebVitals from "./reportWebVitals"
 
 ReactDOM.render(
